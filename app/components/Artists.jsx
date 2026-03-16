@@ -12,7 +12,7 @@ const artists = [
     phone: "+91 73589 14490",
     email: "gravitystudio2428@leafart.com",
     instagram: "salem_leaf_art",
-    instagramUrl: "https://instagram.com/leafart.artistone",
+    instagramUrl: "https://www.instagram.com/leaf_art_salem?igsh=cHVmdXFjZGZlbXNz",
   },
   {
     id: 2,
@@ -22,7 +22,7 @@ const artists = [
     phone: "+91 96293 34302",
     email: "gravitystudio2428@gmail.com",
     instagram: "lovely_leaf_art",
-    instagramUrl: "https://instagram.com/leafart.artisttwo",
+    instagramUrl: "https://www.instagram.com/lovely_leaf_art?igsh=MWhkYzB1YXhpbjBqMw==",
   },
 ];
 
