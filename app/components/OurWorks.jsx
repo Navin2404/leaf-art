@@ -13,7 +13,7 @@ const works = [
   },
   {
     id: 2,
-    image: "/close.png",
+    image: "/bloom.png",
     title: "Botanical Wall Art",
     description:
       "Preserved botanical elements arranged into premium decorative wall art pieces.",
