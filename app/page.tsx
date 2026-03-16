@@ -5,6 +5,7 @@ import OurWorks from "./components/OurWorks";
 import ReachUs from "./components/ReachUs";
 import Footer from "./components/Footer";
 import Artists from "./components/Artists";
+import WhatsAppButton from "./components/WhatsAppButton";
 
 export default function Home() {
   return (
@@ -16,6 +17,7 @@ export default function Home() {
         <OurWorks />
         <Artists />
         <ReachUs />
+        <WhatsAppButton />
       </main>
       <Footer />
     </>
