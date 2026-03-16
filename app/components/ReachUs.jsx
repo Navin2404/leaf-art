@@ -22,8 +22,8 @@ export default function ReachUs() {
           </h2>
 
           <p className="text-gray-700 leading-8">
-            Contact us for custom leaf art, collaborations, or creative
-            inquiries. We would love to hear from you.
+            Contact us for custom leaf art
+            We would love to hear from you.
           </p>
         </motion.div>
 
@@ -41,14 +41,14 @@ export default function ReachUs() {
                 <h4 className="text-lg font-semibold text-green-900 mb-1">
                   Phone
                 </h4>
-                <p className="text-gray-600">+91 98765 43210</p>
+                <p className="text-gray-600">+91 96293 34302</p>
               </div>
 
               <div>
                 <h4 className="text-lg font-semibold text-green-900 mb-1">
                   Email
                 </h4>
-                <p className="text-gray-600">hello@leafart.com</p>
+                <p className="text-gray-600">gravitystudio2428@gmail.com</p>
               </div>
 
               <div>
@@ -56,7 +56,7 @@ export default function ReachUs() {
                   Address
                 </h4>
                 <p className="text-gray-600">
-                  Your address here, Tamil Nadu, India
+                  krishnagiri Tamil Nadu, India
                 </p>
               </div>
 
@@ -64,7 +64,7 @@ export default function ReachUs() {
                 <h4 className="text-lg font-semibold text-green-900 mb-1">
                   Instagram
                 </h4>
-                <p className="text-gray-600">@leafartstudio</p>
+                <p className="text-gray-600">salem_leaf_art</p>
               </div>
             </div>
           </motion.div>

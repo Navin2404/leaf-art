@@ -4,11 +4,11 @@ import { motion, AnimatePresence } from "framer-motion";
 import { useEffect, useState } from "react";
 
 const slides = [
-  { type: "image", src: "/hero1.jpg" },
-  { type: "video", src: "/hero-video1.mp4" },
-  { type: "image", src: "/hero2.jpg" },
-  { type: "video", src: "/hero-video2.mp4" },
-  { type: "image", src: "/hero3.jpg" },
+  { type: "image", src: "/couples.jpg" },
+  { type: "video", src: "/bamboo.mp4" },
+  { type: "image", src: "/greeny.jpg" },
+  { type: "video", src: "/soap.mp4" },
+  { type: "image", src: "/greeny.jpg" },
 ];
 
 const textContainerVariants = {

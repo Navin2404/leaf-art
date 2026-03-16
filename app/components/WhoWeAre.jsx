@@ -15,7 +15,7 @@ export default function WhoWeAre() {
           className="relative w-full h-[420px] md:h-[520px] rounded-3xl overflow-hidden shadow-xl"
         >
           <Image
-            src="/about.jpg"
+            src="/ragu.jpg"
             alt="About Leaf Art"
             fill
             className="object-cover"
@@ -38,7 +38,7 @@ export default function WhoWeAre() {
 
           <p className="text-gray-700 leading-8 mb-5">
             Leaf Art is a creative studio where nature becomes a canvas. We
-            transform leaves and botanical inspiration into artistic creations
+            transform leaves into artistic creations
             that feel elegant, peaceful, and deeply meaningful.
           </p>
 

@@ -4,6 +4,7 @@ import WhoWeAre from "./components/WhoWeAre";
 import OurWorks from "./components/OurWorks";
 import ReachUs from "./components/ReachUs";
 import Footer from "./components/Footer";
+import Artists from "./components/Artists";
 
 export default function Home() {
   return (
@@ -13,6 +14,7 @@ export default function Home() {
         <Hero />
         <WhoWeAre />
         <OurWorks />
+        <Artists />
         <ReachUs />
       </main>
       <Footer />

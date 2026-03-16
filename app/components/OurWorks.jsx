@@ -6,21 +6,21 @@ import { motion } from "framer-motion";
 const works = [
   {
     id: 1,
-    image: "/work1.jpg",
+    image: "/bloom.jpg",
     title: "Leaf Frame Design",
     description:
       "Elegant handcrafted leaf framing with natural textures and refined artistic composition.",
   },
   {
     id: 2,
-    image: "/work2.jpg",
+    image: "/close.png",
     title: "Botanical Wall Art",
     description:
       "Preserved botanical elements arranged into premium decorative wall art pieces.",
   },
   {
     id: 3,
-    image: "/work3.jpg",
+    image: "/bloom.jpg",
     title: "Custom Leaf Craft",
     description:
       "Personalized leaf artwork created for gifts, home styling, and special occasions.",
